@@ -1,7 +1,6 @@
-package vejsilit.switchstart;
+package svelekcije;
 
 import javax.swing.*;
-import java.util.Locale;
 
 public class StringswitchDemo {
     public static void main(String[] args) {

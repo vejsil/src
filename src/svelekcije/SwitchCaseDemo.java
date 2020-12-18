@@ -1,4 +1,4 @@
-package vejsilit.switchstart;
+package svelekcije;
 
 import javax.swing.*;
 

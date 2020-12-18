@@ -1,7 +1,4 @@
-package vejsilit.petlje;
-
-import javax.sql.rowset.serial.SQLOutputImpl;
-import java.sql.SQLOutput;
+package svelekcije.petlje;
 
 public class ArrayLoopDemo {
     public static void main(String[] args) {

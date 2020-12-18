@@ -1,4 +1,4 @@
-package vejsilit.petlje;
+package svelekcije.petlje;
 
 import javax.swing.*;
 

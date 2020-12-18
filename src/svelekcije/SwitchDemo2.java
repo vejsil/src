@@ -1,4 +1,4 @@
-package switchstart;
+package svelekcije;
 
 public class SwitchDemo2 {
 

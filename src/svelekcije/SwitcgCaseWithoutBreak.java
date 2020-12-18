@@ -1,7 +1,6 @@
-package vejsilit.switchstart;
+package svelekcije;
 
 import javax.swing.*;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class SwitcgCaseWithoutBreak {

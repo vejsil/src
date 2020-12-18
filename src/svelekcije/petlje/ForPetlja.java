@@ -1,4 +1,4 @@
-package vejsilit.petlje;
+package svelekcije.petlje;
 
 public class ForPetlja {
     public static void main(String[] args) {

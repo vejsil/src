@@ -1,4 +1,4 @@
-package vejsilit;
+package mnoštvoprimjera;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

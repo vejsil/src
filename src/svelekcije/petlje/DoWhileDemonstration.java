@@ -1,4 +1,4 @@
-package vejsilit.petlje;
+package svelekcije.petlje;
 
 public class DoWhileDemonstration {
     public static void main(String[] args) {

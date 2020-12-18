@@ -1,4 +1,4 @@
-package vejsilit;
+package mnoštvoprimjera;
 
 import javax.swing.*;
 
